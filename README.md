@@ -11,4 +11,4 @@ Purpose:
   divided by the total number of credits attempted in the semester. Again, this is a short process that 
   takes usually only 5 minutes, but with this calculator, the process can be just a couple of seconds. I
   initially made this program as a side project and a convenient way to calculate my grade in the future,
-  but my friends have also taken a liking to this program and have asked to use this program many times.*/
+  but my friends have also taken a liking to this program and have asked to use this program many times.
